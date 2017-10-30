@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Zac</string>
+    <string name="txt_caption">Zac and Max</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Zac is an aspiring app developer who loves to play video games, read manga, watch anime, and hang out with friends</string>
+
+</resources>
